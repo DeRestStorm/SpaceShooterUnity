@@ -1,0 +1,43 @@
+﻿/.idea/.idea.ET-Hollow-Memories/
+/Logs/
+/obj/Debug/
+/Temp/
+/Library/
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Library/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+/*.csproj
+*.csproj
+*.pidb
+*.suo
+/*.sln
+*.sln
+*.user
+*.unityproj
+*.booproj
+.vs/
+.idea/
+
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Packages/manifest.json
+/Assembly-CSharp.csproj.DotSettings
